@@ -22,4 +22,4 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * ➡ Drill-Through Functionality
 
 💡
-[➡**View Full Project 1 Details (REAME)**](/Data_Jobs_v1/README.md)
+[➡**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
