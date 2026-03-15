@@ -1,6 +1,5 @@
 # 📊 Data Jobs Dashboard v2 w/ Power BI
 
-🔗 **[View Interactive Dashboard on Power BI Service](https://lukeb.co/powerbi-project2)**
 
 ![Dashboard Page](/images/Projct2_1.PNG)
 
